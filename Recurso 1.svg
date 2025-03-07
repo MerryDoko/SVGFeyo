@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1655.25 214.31">
+        <defs>
+
+            <style>
+                .cls-1 {
+                    font-size: 135px;
+                    font-family: AkiraExpanded-SuperBold, Akira Expanded;
+                    font-weight:700;
+                    }
+                <!-- Sabrá dios que es --> .cls-1, 
+                <!-- Letra T --> .cls-2 {
+                    letter-spacing:-0.19em;
+                    fill:rgb(248, 165, 40);
+                    } 
+                <!-- Letra A --> .cls-3, {
+                    letter-spacing:-0.06em;
+                    fill:rgb(248, 165, 40);
+                    } 
+                <!-- Letra C --> .cls-4, {
+                    letter-spacing:0.04em;
+                    fill:rgb(248, 165, 40);
+                    } 
+                <!-- Letra O --> .cls-5, {
+                    letter-spacing:0.03em;
+                    fill:rgb(248, 165, 40);
+                    } 
+                <!-- Letra A --> .cls-6, {
+                    fill:rgb(218, 18, 18);
+                    } 
+                <!-- Letra K --> .cls-7, {
+                    fill:rgb(218, 18, 18);
+                    } 
+                <!-- Letra I --> .cls-8 {
+                    fill:rgb(218, 18, 18);
+                    } 
+                <!-- Letra R --> .cls-7 {
+                    letter-spacing:0.02em;
+                    fill:rgb(218, 18, 18);
+                    } 
+                <!-- Letra A --> .cls-8 {
+                    letter-spacing:0.12em;
+                    fill:rgb(218, 18, 18);
+                    } 
+                <!-- Parte del taco 1 --> .cls-9 {
+                    fill:#603900;
+                    position: absolute;
+                    animation: wasaa 2s ease-out forwards;
+                    animation: giros 3s;
+                    } 
+                <!-- Parte del taco 2 --> .cls-10 {
+                    fill:#9aea28;
+                    position: absolute;
+                    animation: wasaa 2s ease-out forwards;
+                    animation: giros 3s;
+                    } 
+                <!-- Parte del taco 3 --> .cls-11 {
+                    fill:#f9b214;
+                    stroke:#1d1d1b;
+                    stroke-miterlimit:10;
+                    position: absolute;
+                    animation: wasaa 2s ease-out forwards;
+                    animation: giros 3s;
+                    } 
+
+                <!-- Dios olvidó la letra S, entonces Taco Akira > Tacos Akira  -->
+
+                @keyframes wasaa {
+                    0% {
+                    transform: translate(-100vw, -100vh) scale(0); 
+                }
+                    100% {
+                    transform: translate(0, 0) scale(1); 
+                    }
+                }
+
+                @keyframes giros {
+                    0% {
+                    transform: rotate(0deg);
+                    }
+                    100% {
+                    transform: rotate(360deg);
+                        }
+                }
+
+            </style>
+        </defs>
+    <g id="Capa_2" data-name="Capa 2">
+        <g id="Capa_1-2" data-name="Capa 1">
+            <text class="cls-1" transform="translate(0.5 187.91)">
+                <tspan class="cls-2">T</tspan>
+                <tspan class="cls-3" x="93.74" y="0">A</tspan>
+                <tspan class="cls-4" x="224.19" y="0">C</tspan>
+                <tspan class="cls-5" x="353.52" y="0">O</tspan>
+                <tspan x="481.79" y="0">S </tspan>
+                <tspan class="cls-6" x="670.58" y="0">a</tspan>
+                <tspan class="cls-7" x="809.34" y="0">k</tspan>
+                <tspan class="cls-8" x="941.64" y="0">i</tspan>
+                <tspan class="cls-6" x="996.50" y="0">rㅤ a</tspan>
+            </text>
+            <path class="cls-9" d="M1476.48,14c-98.74,0-178.78,74.32-178.78,166h357.55C1655.25,88.32,1575.21,14,1476.48,14Z"/>
+            <path class="cls-10" d="M1476.48,0c-80.6,0-145.93,74.32-145.93,166H1622.4C1622.4,74.32,1557.07,0,1476.48,0Z"/>
+            <path class="cls-11" d="M1476.48,24.5a166,166,0,0,0-166,166h332A166,166,0,0,0,1476.48,24.5Z"/>
+        </g>
+    </g>
+</svg>
